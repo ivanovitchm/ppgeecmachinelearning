@@ -4,3 +4,5 @@
 1. Lesson #01
     - Course outline
     - Trends on ML
+    - Python Crash-Course
+    - Introduction to Numpy and Pandas
