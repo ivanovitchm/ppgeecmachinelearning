@@ -12,3 +12,9 @@
 	- Main challenges
 	- Tools
 	- Stats Review
+3. Lesson #03
+	- Univariate and multivariate KNN
+	- Hyperparameter optimization
+	- Cross-Validation
+	- Gridsearch & Pipeline
+	- Stats Review II
