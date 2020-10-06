@@ -18,3 +18,8 @@
 	- Cross-Validation
 	- Gridsearch & Pipeline
 	- Stats Review II
+4. Lesson #04 
+	- Introduction to Decision Tree
+	- Splitting Tree (Entropy & Gini)
+	- Evaluating Classifiers
+	- Applying Decision Trees
