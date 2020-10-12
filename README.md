@@ -23,3 +23,8 @@
 	- Splitting Tree (Entropy & Gini)
 	- Evaluating Classifiers
 	- Applying Decision Trees
+5. Lesson #05
+	- Feature Selection
+	- Hypothesis test
+	- Pipelines
+
