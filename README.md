@@ -27,4 +27,11 @@
 	- Feature Selection
 	- Hypothesis test
 	- Pipelines
+6. Lesson #06
+	- Ensembles (introduction)
+	- Voting classifiers
+	- Bagging & Pasting
+		- Random Forest
+		- Feature Importante
+
 
