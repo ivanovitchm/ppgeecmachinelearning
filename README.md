@@ -33,5 +33,11 @@
 	- Bagging & Pasting
 		- Random Forest
 		- Feature Importante
+7. Lesson #07
+	- Ensembles methods
+	- Boosting
+		- Adaboosting
+		- Gradient Boosting
+		- XGBoost
 
 
