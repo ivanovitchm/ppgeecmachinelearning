@@ -39,5 +39,8 @@
 		- Adaboosting
 		- Gradient Boosting
 		- XGBoost
+8. Lesson #08
+	- Functions, Context Managers & Decorators
+	- Object-Oriented & Functional Programming
 
 
