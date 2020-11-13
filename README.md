@@ -42,5 +42,15 @@
 8. Lesson #08
 	- Functions, Context Managers & Decorators
 	- Object-Oriented & Functional Programming
+9. Lesson #09
+	- Neural Network & TensorFlow 2.0
+	- The perceptron
+	- Building Neural Networks
+	- Applying Neural Networks
+	- Training Neural Networks
+	- Splitting Data, Regularization, Dropout
+	- Normalize Inputs
+	- Vanishing/Exploding Gradients
+	- Weight Initialization
 
 
