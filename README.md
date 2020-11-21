@@ -52,5 +52,9 @@
 	- Normalize Inputs
 	- Vanishing/Exploding Gradients
 	- Weight Initialization
+10. Lesson #10
+	- Hyperparameter tuning
+	- Batch normalization
+	- Multiclass classification
 
 
