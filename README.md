@@ -56,5 +56,9 @@
 	- Hyperparameter tuning
 	- Batch normalization
 	- Multiclass classification
+11. Lesson #11
+	- Fundamentals of Convolutional Neural Networks
+	- Convolutional, Pooling and Fully Connected Layers
+	- Case study: signs detection
 
 
