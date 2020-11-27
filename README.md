@@ -60,5 +60,9 @@
 	- Fundamentals of Convolutional Neural Networks
 	- Convolutional, Pooling and Fully Connected Layers
 	- Case study: signs detection
+12. Lesson #12
+	- CNN Architectures: VGG, ResNet
+	- Transfer learning: feature extraction, fine-tuning
+	- Dogs & Cats Kaggle: case study
 
 
