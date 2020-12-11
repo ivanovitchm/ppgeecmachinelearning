@@ -64,5 +64,8 @@
 	- CNN Architectures: LeNet5, AlexNet
 	- Data Augmentation
 	- Best practices to build CNN
-
+13. Lesson #13
+	- CNN Architectures: VGG, ResNet
+	- Transfer learning: feature extraction, fine-tuning
+	- Dogs & Cats Kaggle: case study
 
