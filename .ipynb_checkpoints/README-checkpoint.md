@@ -14,5 +14,8 @@
 - :books: Hannes Hapke, Catherine Nelson. Building Machine Learning Pipelines. [[Link]](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/)
 - :books: Noah Gift, Alfredo Deza. Practical MLOps: Operationalizing Machine Learning Models [[Link]](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 - :fist_right: Dataquest Academic Program [[Link]](https://www.dataquest.io/academic-program/)
-- :smiley: CS329S - ML Systems Design [[Link]](https://stanford-cs329s.github.io/syllabus.html)
-- :dart: Machine Learning Operations [[Link]](https://ml-ops.org/)
+
+**Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](out.pdf)
+- Motivation, Syllabus, Calender, other issues.
+
+**Week 02**: Machine Learning Fundamentals
