@@ -20,4 +20,7 @@
 
 **Week 02**
 - Outline
-- What is machine learning? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340) 
+- What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340) 
+- ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c) 
+- Main challenges of ML: variables, pipeline, and controlling chaos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f5456342c6b643799c1824362020fc5e) 
+
