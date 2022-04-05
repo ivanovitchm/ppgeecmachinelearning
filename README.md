@@ -2,9 +2,13 @@
 <center><img width="800" src="images/ct.jpeg"></center>
 
 <font size="10"> Federal University of Rio Grande do Norte</font> 
+
 <font size="8">Technology Center</font>
+
 Graduate Program in Electrical and Computer Engineering</font>
+
 <font size="7">Department of Computer Engineering and Automation </font>
+
 <font size="6"> EEC1509 Machine Learning</font>
 
 #### References
