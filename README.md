@@ -1,15 +1,11 @@
 
 <center><img width="800" src="images/ct.jpeg"></center>
 
-<font size="10"> Federal University of Rio Grande do Norte</font> 
-
-<font size="8">Technology Center</font>
-
-Graduate Program in Electrical and Computer Engineering</font>
-
-<font size="7">Department of Computer Engineering and Automation </font>
-
-<font size="6"> EEC1509 Machine Learning</font>
+# Federal University of Rio Grande do Norte
+## Technology Center
+### Graduate Program in Electrical and Computer Engineering
+#### Department of Computer Engineering and Automation 
+##### EEC1509 Machine Learning
 
 #### References
 
@@ -22,4 +18,6 @@ Graduate Program in Electrical and Computer Engineering</font>
 **Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](out.pdf)
 - Motivation, Syllabus, Calender, other issues.
 
-**Week 02**: Machine Learning Fundamentals
+**Week 02**
+- Outline
+- What is machine learning? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340) 
