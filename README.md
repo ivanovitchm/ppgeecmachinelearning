@@ -18,7 +18,7 @@
 **Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_01/outline.pdf)
 - Motivation, Syllabus, Calender, other issues.
 
-**Week 02**
+**Week 02** Machine Learning Fundamentals and Decision Trees Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_02/ml_fundamentals_and_decision_trees.pdf)
 - Outline
 - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
 - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
