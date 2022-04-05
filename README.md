@@ -39,9 +39,8 @@
         - Exploratory Data Analysis (EDA) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/799b9712c6274f2fa547a3eb4cd230df)
         - Fetch Data [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9861e9013ba940aba2c6dd1db5a00ebf)
         - EDA using Pandas-Profiling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/cf19e023208946938d3f70e6e52018b4)
-         - EDA using Pandas-Profiling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/cf19e023208946938d3f70e6e52018b4)
-         - Manually EDA [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9cec1f4d529a41dc90af19f23ef2082a)
-         - Preprocessing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/51a2972c8ffc4949891e9e249f9f48a3)
+        - Manually EDA [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9cec1f4d529a41dc90af19f23ef2082a)
+        - Preprocessing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/51a2972c8ffc4949891e9e249f9f48a3)
 
     
 
