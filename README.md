@@ -26,8 +26,6 @@
     - Variables, pipeline, and controlling chaos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f5456342c6b643799c1824362020fc5e)
     - Train, dev and test sets [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/954298d6f4c1433488239956b5d7007e)
     - Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131) 
-
-
-
-https://www.loom.com/share/c496098013c84911a9ac353fec7e3131
-
+- Decision Trees
+    - Introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4f10b2436c1943f2aaa84d0f56c9e8c3) 
+    - Mathematical foundations [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a215906eceda4b9cb655b226261bfb21) 
