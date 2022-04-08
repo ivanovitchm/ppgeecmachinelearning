@@ -18,7 +18,7 @@
 **Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_01/outline.pdf)
 - Motivation, Syllabus, Calender, other issues.
 
-**Week 02** Machine Learning Fundamentals and Decision Trees Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_02/ml_fundamentals_and_decision_trees.pdf)
+**Week 02** Machine Learning Fundamentals and Decision Trees [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_02/ml_fundamentals_and_decision_trees.pdf)
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4979782637e34d37a0bb8551835a5a00)
 - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
 - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
@@ -43,6 +43,7 @@
         - Manual EDA [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9cec1f4d529a41dc90af19f23ef2082a)
         - Preprocessing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/51a2972c8ffc4949891e9e249f9f48a3)
     - Data Check [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f359ca8430b149309f6ac0b1d9c6e233)
+    - Data Segregation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/25a491791e104c1694b2bf5615fe2c26)
 
 
     
