@@ -46,12 +46,12 @@
     - Data Segregation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/25a491791e104c1694b2bf5615fe2c26)
     - Train
         - Train and validation component [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b708c0820b64ef199178b63fc4ef395)
-        - Data preparation and outlier removal [![Open in Loom](https://www.loom.com/share/140068a18a5e4c8d83b807868ebdd011)]
-        - Encoding the target variable [![Open in Loom](https://www.loom.com/share/b0edb4ccb28a4e1884a2f37637b58deb)]
-        - Encoding the independent variables manually [![Open in Loom](https://www.loom.com/share/4adce083a32b4d3787fd50b59da4fdb5)]
-        - Using a full-pipeline to prepare categorical features [![Open in Loom](https://www.loom.com/share/12de69ebeb744ebdbf2524b07773c7c2)]
-        - Using a full-pipeline to prepare numerical features [![Open in Loom](https://www.loom.com/share/3b92e3fd78df42ebbbdce36dbce1707a)]
-        - Creating a full-preprocessing pipeline [![Open in Loom](https://www.loom.com/share/6796f0129b1d4865aeb277e68461da80)]
+        - Data preparation and outlier removal [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/140068a18a5e4c8d83b807868ebdd011)
+        - Encoding the target variable [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b0edb4ccb28a4e1884a2f37637b58deb)
+        - Encoding the independent variables manually [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4adce083a32b4d3787fd50b59da4fdb5)
+        - Using a full-pipeline to prepare categorical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/12de69ebeb744ebdbf2524b07773c7c2)
+        - Using a full-pipeline to prepare numerical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b92e3fd78df42ebbbdce36dbce1707a)
+        - Creating a full-preprocessing pipeline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6796f0129b1d4865aeb277e68461da80)
         
         
 
