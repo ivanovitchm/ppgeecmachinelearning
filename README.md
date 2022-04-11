@@ -44,6 +44,8 @@
         - Preprocessing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/51a2972c8ffc4949891e9e249f9f48a3)
     - Data Check [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f359ca8430b149309f6ac0b1d9c6e233)
     - Data Segregation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/25a491791e104c1694b2bf5615fe2c26)
+    - Train
+        - Train and validation componente [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b708c0820b64ef199178b63fc4ef395)
 
 
     
