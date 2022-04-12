@@ -3,7 +3,11 @@
 Model cards are a succinct approach for documenting the creation, use, and shortcomings of a model. The idea is to write a documentation such that a non-expert can understand the model card's contents. For additional information see the Model Card paper: https://arxiv.org/pdf/1810.03993.pdf
 
 ## Model Details
-Ivanovitch Silva created the model. A complete data pipeline was built using Google Colab, Scikit-Learn and Weights & Bias to train a Decision Tree model. For the sake of understanding, a simple hyperparameter-tuning was conducted using a Random Sweep of Wandb, and the hyperparameters values adopted in the train were:
+Ivanovitch Silva created the model. A complete data pipeline was built using Google Colab, Scikit-Learn and Weights & Bias to train a Decision Tree model. The big-picture of the data pipeline is shown below:
+
+<img width="800" src="../../../images/workflow.png">
+
+For the sake of understanding, a simple hyperparameter-tuning was conducted using a Random Sweep of Wandb, and the hyperparameters values adopted in the train were:
 
 - full_pipeline__num_pipeline__num_transformer__model: 2
 - classifier__criterion: 'entropy'
@@ -21,7 +25,8 @@ You can download the data from the University of California, Irvine's [website](
 
 After the EDA stage of the data pipeline, it was noted that the training data is imbalanced when considered the target variable and some features (``sex``, ``race`` and ``workclass``. 
 
-<img width="600" src="../../../images/gender_race.png"><img width="600" src="../images/gender_workclass.png">
+<img width="600" src="../../../images/gender_race.png"><img width="600" src="../../../images/gender_workclass.png">
+
 
 ## Evaluation Data
 The dataset under study is split into Train and Test during the ``Segregate`` stage of the data pipeline. 70% of the clean data is used to Train and the remaining 30% to Test. Additionally, 30% of the Train data is used for validation purposes (hyperparameter-tuning). 
@@ -33,7 +38,7 @@ To calculate the evaluations metrics is only necessary to run:
 
 The follow results will be shown:
 
- **Stage [Run] **                        | **Accuracy** | **F1** | **Precision** | **Recall** | 
+ **Stage [Run]**                        | **Accuracy** | **F1** | **Precision** | **Recall** | 
 ---------------------------------|--------------|--------|---------------|------------|
  Train [distinctive-sweep-7](https://wandb.ai/ivanovitchm/decision_tree/runs/f40ujfaq/overview?workspace=user-ivanovitchm) | 0.8109       | 0.6075 | 0.6075        | 0.6075     |  
  Test [crips-resonance-11](https://wandb.ai/ivanovitchm/decision_tree/runs/1wg7ibyy/overview?workspace=user-ivanovitchm)  | 0.8019       | 0.5899 | 0.5884        | 0.5914     |
