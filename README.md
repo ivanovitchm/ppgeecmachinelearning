@@ -52,12 +52,14 @@
         - Using a full-pipeline to prepare categorical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/12de69ebeb744ebdbf2524b07773c7c2)
         - Using a full-pipeline to prepare numerical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b92e3fd78df42ebbbdce36dbce1707a)
         - Creating a full-preprocessing pipeline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6796f0129b1d4865aeb277e68461da80)
-        
+        - Houldout training [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/188a610fb09542b883b89cc962d6a823)
+        - Evaluation metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4b2a9dd0ae44465b914974cf886390f9)
+        - Hyperparameter tuning using Wandb [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e3a9d52709843bbb6026f816fa49d90)
+        - Configure, train and export the best model [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
         
 
 
     
-
     
 
     
