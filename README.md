@@ -56,6 +56,7 @@
         - Evaluation metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4b2a9dd0ae44465b914974cf886390f9)
         - Hyperparameter tuning using Wandb [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e3a9d52709843bbb6026f816fa49d90)
         - Configure, train and export the best model [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
+    - Test [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7725679b69a7426c927c317cb634dec3)
         
 
 
