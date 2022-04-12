@@ -21,7 +21,7 @@ You can download the data from the University of California, Irvine's [website](
 
 After the EDA stage of the data pipeline, it was noted that the training data is imbalanced when considered the target variable and some features (``sex``, ``race`` and ``workclass``. 
 
-<img width="600" src="../../images/gender_race.png"><img width="600" src="../images/gender_workclass.png">
+<img width="600" src="../../../images/gender_race.png"><img width="600" src="../images/gender_workclass.png">
 
 ## Evaluation Data
 The dataset under study is split into Train and Test during the ``Segregate`` stage of the data pipeline. 70% of the clean data is used to Train and the remaining 30% to Test. Additionally, 30% of the Train data is used for validation purposes (hyperparameter-tuning). 
