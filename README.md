@@ -18,7 +18,7 @@
 **Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_01/outline.pdf)
 - Motivation, Syllabus, Calender, other issues.
 
-**Week 02** Machine Learning Fundamentals and Decision Trees [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_02/ml_fundamentals_and_decision_trees.pdf)
+**Weeks 02, 03, 04** Machine Learning Fundamentals and Decision Trees [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_02/ml_fundamentals_and_decision_trees.pdf)
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4979782637e34d37a0bb8551835a5a00)
 - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
 - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
@@ -52,11 +52,14 @@
         - Using a full-pipeline to prepare categorical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/12de69ebeb744ebdbf2524b07773c7c2)
         - Using a full-pipeline to prepare numerical features [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b92e3fd78df42ebbbdce36dbce1707a)
         - Creating a full-preprocessing pipeline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6796f0129b1d4865aeb277e68461da80)
-        - Houldout training [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/188a610fb09542b883b89cc962d6a823)
+        - Holdout training [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/188a610fb09542b883b89cc962d6a823)
         - Evaluation metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4b2a9dd0ae44465b914974cf886390f9)
         - Hyperparameter tuning using Wandb [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e3a9d52709843bbb6026f816fa49d90)
         - Configure, train and export the best model [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
     - Test [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7725679b69a7426c927c317cb634dec3)
+    - Dataquest Courses
+        - Elements of the Command Line [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/command-line-elements/)
+            - You'll learn how to: a) employ the command line for Data Science, b) modify the behavior of commands with options, c) employ glob patterns and wildcards, d) define Important command line concepts, e) navigate he filesystem, f) manage users and permissions.
         
 
 
