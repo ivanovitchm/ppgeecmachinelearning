@@ -66,9 +66,12 @@
         - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
             - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
             
-**Weeks 05** Deploy a ML Pipeline in Production [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_05/deploy_ml.pdf)
+**Week 05** Deploy a ML Pipeline in Production [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_05/deploy_ml.pdf)
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8bc6b17050e14db1b5a644b614b9863b)
-        
+- Previously on the last lesson and next steps [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2497e73815354083a0299c376c6b1bb7)
+- Install essential tools to configure the dev environment [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5147cf6180e146689fe976e1212dfd60)
+- Environment management system using conda [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b03a14eddae543319071f483e1f73728)
+- Using FastAPI to Build Web APIs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7c4ccaa0de28422db02522dbad03bba7)
 
 
     
