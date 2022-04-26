@@ -72,6 +72,12 @@
 - Install essential tools to configure the dev environment [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5147cf6180e146689fe976e1212dfd60)
 - Environment management system using conda [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b03a14eddae543319071f483e1f73728)
 - Using FastAPI to Build Web APIs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7c4ccaa0de28422db02522dbad03bba7)
+- Hello world using fastapi [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d54ee20891d74c70bd2c866c68fbe4f6)
+- Implementing a post method [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8514c74f1f3443d3b7a82b8160f9d271)
+- Path and query parameter [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7b6f2e4a2fc345019b5f5e0081aec490)
+- Local API testing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/db74b4cc2294486480e2c31f05cbe3d5)
+- API deployment with FastAPI [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bad07405f31e4625ba0a45a632b4f9d7)
+- Run and consuming our RESTful API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bd04680bd2ba4c41bf5e33bd18e6e9c7)
 
 
     
