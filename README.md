@@ -60,6 +60,11 @@
     - Dataquest Courses
         - Elements of the Command Line [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/command-line-elements/)
             - You'll learn how to: a) employ the command line for Data Science, b) modify the behavior of commands with options, c) employ glob patterns and wildcards, d) define Important command line concepts, e) navigate he filesystem, f) manage users and permissions.
+        - Functions: Advanced - Best practices for writing functions [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-advanced-functions/)
+        - Command Line Intermediate [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/command-line-intermediate/)
+            - Learn more about the command line and how to use it in your data analysis workflow. You'll learn how to: a) employ Jupyter console and b) process data from the command line.
+        - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
+            - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
         
 
 
