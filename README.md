@@ -65,6 +65,9 @@
             - Learn more about the command line and how to use it in your data analysis workflow. You'll learn how to: a) employ Jupyter console and b) process data from the command line.
         - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
             - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
+            
+**Weeks 05** Deploy a ML Pipeline in Production [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_05/deploy_ml.pdf)
+- Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8bc6b17050e14db1b5a644b614b9863b)
         
 
 
