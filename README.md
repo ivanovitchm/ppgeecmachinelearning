@@ -78,7 +78,14 @@
 - Local API testing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/db74b4cc2294486480e2c31f05cbe3d5)
 - API deployment with FastAPI [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bad07405f31e4625ba0a45a632b4f9d7)
 - Run and consuming our RESTful API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bd04680bd2ba4c41bf5e33bd18e6e9c7)
-
+- Using pytest and fastAPI to test our RESTful API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/90ec0a6c964a4e669c05d7c3d3f54347)
+- Fundamentals of CI/CD [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9759c65ddb9b486fb9068ff603dda38c)
+- Configure a GitHub action [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6551d576e4b340f2a1d7849edd910109)
+- Workflow file configuration (Continuous Integration step) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7d932f842f64ea4805feeb5c11d82ed)
+- Delivery your API with Heroku
+    - Sign up Heroku and create a new app [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f2eeba8220cc45b2984813786df0c7f4)
+    - Install the Heroku CLI, configure credentials, remote repository, buildpacks, dyno, procfile and push CD [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3f4f6a31147148418fa5052a545740d4)
+    - Debuging and query live api [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/60782b538d25411780a8c9c1c14249f6)
 
     
     
