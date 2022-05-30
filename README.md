@@ -66,7 +66,7 @@
         - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
             - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
             
-**Week 05** Deploy a ML Pipeline in Production [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_05/deploy_ml.pdf)
+**Weeks 05 and 06** Deploy a ML Pipeline in Production [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_05/deploy_ml.pdf)
 - :neckbeard: Hands on [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/ivanovitchm/colab2mlops)
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8bc6b17050e14db1b5a644b614b9863b)
 - Previously on the last lesson and next steps [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2497e73815354083a0299c376c6b1bb7)
@@ -87,6 +87,27 @@
     - Sign up Heroku and create a new app [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f2eeba8220cc45b2984813786df0c7f4)
     - Install the Heroku CLI, configure credentials, remote repository, buildpacks, dyno, procfile and push CD [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3f4f6a31147148418fa5052a545740d4)
     - Debuging and query live api [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/60782b538d25411780a8c9c1c14249f6)
+    
+**Weeks 07, 08 and 09** Project 01
+- Create an end-to-end machine learning pipeling
+    - From fetch data to deploy
+    - Using: sklearn, wandb, fastapi, github actions, heroku, notebooks
+    
+**Weeks 10 and 11** Fundamentals of Deep Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
+ - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
+ - The perceptron [[Video]](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
+ - Building Neural Networks [[Video]](https://www.loom.com/share/f0ca49107b52458699210cbda8d3cb76)
+ - Matrix Dimension [[Video]](https://www.loom.com/share/31862a3448f6427097e16adc773592a1)
+ - Applying Neural Networks [[Video]](https://www.loom.com/share/f5ef63a357604bcebb577458cbfe85f6)
+ - Training a Neural Networks [[Video]](https://www.loom.com/share/38f251f7949d4d3c99097395ab9e3b74)
+ - Backpropagation with Pencil & Paper [[Video]](https://www.loom.com/share/7093fed68d7342b189ef2f9b85e93b2d)
+ - Learning rate & Batch Size [[Video]](https://www.loom.com/share/183248cfec9f46a5bc0ae7ec410aa291)
+ - Exponentially Weighted Average [[Video]](https://www.loom.com/share/b84b1452ab5d4193b63481910d9323b1)
+ - Adam, Momentum, RMSProp, Learning Rate Decay [[Video]](https://www.loom.com/share/101a5956c6f04d31843f37c4be089978)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_02_03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb) [TensorFlow Crash Course](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb) [Fundamentals of TensorFlow](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb) [Optimization Methods](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb) [Better Learning - Part I](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
 
     
     
