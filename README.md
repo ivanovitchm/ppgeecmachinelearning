@@ -93,7 +93,7 @@
     - From fetch data to deploy
     - Using: sklearn, wandb, fastapi, github actions, heroku, notebooks
     
-**Weeks 10 and 11** Fundamentals of Deep Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
+**Weeks 10 and 11** Fundamentals of Deep Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Week%2010%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
  - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
  - The perceptron [[Video]](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
  - Building Neural Networks [[Video]](https://www.loom.com/share/f0ca49107b52458699210cbda8d3cb76)
