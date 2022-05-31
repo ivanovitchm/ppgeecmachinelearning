@@ -1,0 +1,45 @@
+% create a file name latexmkrc and copy this code on it:
+% END { system('convert -density 300 output.pdf myImage.png'); }
+
+\documentclass[convert={density=300,size=1080x800,outext=.png}]{standalone}
+\usepackage{neuralnetwork}
+\usepackage{tikz}
+\usepackage{xpatch}
+\makeatletter
+
+% source: https://tex.stackexchange.com/questions/406167/generalize-neural-network
+% \linklayers have \nn@lastnode instead of \lastnode,
+% patch it to replace the former with the latter, and similar for thisnode
+\xpatchcmd{\linklayers}{\nn@lastnode}{\lastnode}{}{}
+\xpatchcmd{\linklayers}{\nn@thisnode}{\thisnode}{}{}
+\makeatother
+
+\begin{document}
+
+\begin{neuralnetwork}[height=1,maintitleheight=1cm,layertitleheight=2.5cm, layerspacing=50]
+  \newcommand{\textinput}[2]{\ifnum #2=4 $x_n$ \else $x_#2$ \fi}
+  \newcommand{\textactivation}[2]{$g(.)$}
+  \newcommand{\textsum}[2]{$\sum$}
+  \newcommand{\textout}[2]{$z_{#2}$}
+  
+  \newcommand{\w}[4] {\ifnum #2=4 $w_{n,#4}$ \else $w_{#2,#4}$ \fi}
+  \newcommand{\ws}[4] {}
+  \setdefaultlinklabel{\w}
+
+  \inputlayer[count=4, title={}, bias=True, exclude={3}, text=\textinput]
+  \outputlayer[count=2, title={}, bias=False, text=\textout]
+  %\linklayers[not from={3}]
+  
+  \foreach \n in {0,1,2,4}{ 
+    \foreach \m in {1,2}{ 
+        \link[style={}, labelpos=near start, from layer=0, from node=\n, to layer=1, to node=\m] 
+    } 
+}
+  
+  % draw dots
+    \path (L0-2) -- node{$\vdots$} (L0-4);
+    \draw [->,>=stealth,gray] (L1-1) -- node [black,midway,above] {$\hat{y}_1=g(z_1)$} +(1.9,0);
+    \draw [->,>=stealth,gray] (L1-2) -- node [black,midway,above] {$\hat{y}_2=g(z_2)$} +(1.9,0);
+\end{neuralnetwork}
+
+\end{document}

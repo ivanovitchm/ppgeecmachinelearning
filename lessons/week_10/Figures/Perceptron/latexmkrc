@@ -1,0 +1,1 @@
+END { system('convert -density 300 output.pdf myImage.png'); }

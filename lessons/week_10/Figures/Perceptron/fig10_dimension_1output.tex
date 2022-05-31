@@ -1,0 +1,56 @@
+% create a file name latexmkrc and copy this code on it:
+% END { system('convert -density 300 output.pdf myImage.png'); }
+
+\documentclass[convert={density=300,size=1080x800,outext=.png}]{standalone}
+\usepackage{neuralnetwork}
+\usepackage{tikz}
+\usepackage{xpatch}
+\makeatletter
+
+% source: https://tex.stackexchange.com/questions/406167/generalize-neural-network
+% \linklayers have \nn@lastnode instead of \lastnode,
+% patch it to replace the former with the latter, and similar for thisnode
+\xpatchcmd{\linklayers}{\nn@lastnode}{\lastnode}{}{}
+\xpatchcmd{\linklayers}{\nn@thisnode}{\thisnode}{}{}
+\makeatother
+
+\begin{document}
+
+\begin{neuralnetwork}[height=1,maintitleheight=1cm,layertitleheight=2.5cm, layerspacing=50]
+  \newcommand{\textinput}[2]{\ifnum #2=4 $x_n$ \else $x_#2$ \fi}
+  \newcommand{\textactivation}[2]{$g(.)$}
+  \newcommand{\texthidden}[2]{\ifnum #2=4 $z_{1,k}$\else $z_{1,#2}$ \fi}
+  \newcommand{\textout}[2]{\ifnum #2=1 $z_{2,j}$ \else $z_{2,#2}$ \fi}
+  
+  \newcommand{\w}[4] {\ifnum #2=4 \ifnum #4=1 $w_{k,j}^{(2)}$ \else $w_{k,#4}^{(2)}$ \fi \else \ifnum #4=2 $w_{#2,j}^{(2)}$ \else $w_{#2,#4}^{(2)}$ \fi \fi}
+  \newcommand{\ww}[4] {\ifnum #4=4 $w_{n,k}^{(1)}$ \else $w_{n,#4}^{(1)}$ \fi}
+
+  \newcommand{\ws}[4] {}
+
+  \inputlayer[count=4, title={}, bias=True, exclude={3}, text=\textinput]
+  \hiddenlayer[count=4, title={}, bias=True, text=\texthidden]
+  \linklayers[not from={3}]
+  \setdefaultlinklabel{\ww}
+  \foreach \n in {4}{ 
+  \foreach \m in {1,2,3,4}{ 
+        \link[style={}, labelpos=midway, from layer=0, from node=\n, to layer=1, to node=\m] 
+    }
+  }
+  \setdefaultlinklabel{\ws}
+  \outputlayer[count=1, title={}, bias=False, text=\textout]
+  \linklayers
+  \setdefaultlinklabel{\w}
+  \foreach \o in {0,1,2,3,4}{ 
+  \foreach \p in {1}{ 
+        \link[style={}, labelpos=midway, from layer=1, from node=\o, to layer=2, to node=\p] 
+    }
+  }
+
+  
+  % draw dots
+    \path (L0-2) -- node{$\vdots$} (L0-4);
+    \draw [->,>=stealth,gray] (L2-1) -- node [black,midway,above] {$\hat{y}_1=g(z_{2,j})$} +(2,0);
+    %\draw [->,>=stealth,gray] (L2-2) -- node [black,midway,above] {$\hat{y}_2=g(z_{2,j})$} +(2,0);
+\end{neuralnetwork}
+
+\end{document}

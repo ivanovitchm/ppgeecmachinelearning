@@ -1,0 +1,29 @@
+% create a file name latexmkrc and copy this code on it:
+% END { system('convert -density 300 output.pdf myImage.png'); }
+
+\documentclass[convert={density=300,size=1080x800,outext=.png}]{standalone}
+\usepackage{neuralnetwork}
+\begin{document}
+
+\begin{neuralnetwork}[height=1,maintitleheight=1cm,layertitleheight=2cm, layerspacing=50]
+  \newcommand{\textinput}[2]{\ifnum #2=3 $x_n$ \else $x_#2$ \fi}
+  \newcommand{\textactivation}[2]{$g(.)$}
+  \newcommand{\textsum}[2]{$\sum$}
+  \newcommand{\textout}[2]{$\hat{y}$}
+  
+  \newcommand{\w}[4] {\ifnum #2=0 $1$ \else \ifnum #2=1 $3$ \else -2 \fi \fi}
+  \newcommand{\ws}[4] {}
+  \setdefaultlinklabel{\w}
+
+  \inputlayer[count=2, title={}, bias=True, text=\textinput]
+  \hiddenlayer[count=1, title={}, bias=False, text=\textsum]
+  \linklayers
+  \hiddenlayer[count=1, title={}, bias=False, text=\textactivation]
+  \setdefaultlinklabel{\ws}
+  \linklayers
+  \outputlayer[count=1, title={}, text=\textout] 
+  \linklayers
+  
+\end{neuralnetwork}
+
+\end{document}
