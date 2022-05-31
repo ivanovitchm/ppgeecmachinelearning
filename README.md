@@ -106,9 +106,7 @@
 - Adam, Momentum, RMSProp, Learning Rate Decay [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6b4b3a14b3044dfdbe76a5606bc8e513)
 - Hands on :fire:
     - TensorFlow Crash Course [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
-     - Fundamentals of TensorFlow [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2002%20-%20Introduction%20to%20TF.ipynb)
-     - Optimization Methods [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2003%20-%20Optimization%20Methods.ipynb)
-     - Better Learning - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
+     - Better Learning - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2002%20-%20Better%20Learning%20part%20I.ipynb)
 
     
     
