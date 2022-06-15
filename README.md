@@ -118,11 +118,17 @@
 	- Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c32f0a35d56b426ca988e05926787936)
 	- Promote Robustness with Noise [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
 	- Early Stopping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c738eed439a34794a6b99c555b99afad)
+    - Hands on
+        - Better Generalization - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20I.ipynb)
+        - Better Generalization - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20II.ipynb)
 - Better Learning II
 	- Data scaling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7008b640440d412498578e27b8557471)
 	- Vanishing/Exploding Gradient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
 	- Fix Vanishing Gradient with Relu [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
 	- Fix Exploding Gradient with Gradient Clipping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2b560922401442b7b078faf06801a3ad)
+    - Hands on
+        - Better Learning - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20II.ipynb)
+        -  Better Learning - Part III [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20III.ipynb)
 
     
     
