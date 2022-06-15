@@ -105,8 +105,8 @@
 - Exponentially Weighted Average [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/eb2e3905d23742d98572d14120fb3f57)
 - Adam, Momentum, RMSProp, Learning Rate Decay [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6b4b3a14b3044dfdbe76a5606bc8e513)
 - Hands on :fire:
-       - TensorFlow Crash Course [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
-        - Better Learning - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2002%20-%20Better%20Learning%20part%20I.ipynb)
+    - TensorFlow Crash Course [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
+    - Better Learning - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2002%20-%20Better%20Learning%20part%20I.ipynb)
      
 **Weeks 12 and 13** Better Generalization vs Better Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalizaton%20vs%20Better%20Learning.pdf)
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f2069bde275c439abf9b8f8b0c774aa3)
@@ -118,10 +118,10 @@
 	- Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bc58906ee39c4269b0d8ec6f67091a47)
 	- Promote Robustness with Noise [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/099bed79389b43d4976d35e6de32dcfb)
 	- Early Stopping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8995488b79434b5d88e887440aa8c953)
-    - Hands on
+    - Hands on :eyes:
         - Better Generalization - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20I.ipynb)
         - Better Generalization - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20II.ipynb)
-- Better Learning II
+- Better Learning II :mortar_board:
 	- Data scaling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/09f19beaffd946b897d1c61f3bf27f02)
 	- Vanishing/Exploding Gradient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/68ed7dd6c5284652a8a81396bb8465ec)
 	- Fix Vanishing Gradient with Relu [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d7fadbbf54c040d69facea3ce035d8f2)
