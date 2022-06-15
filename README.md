@@ -94,6 +94,7 @@
     - Using: sklearn, wandb, fastapi, github actions, heroku, notebooks
     
 **Weeks 10 and 11** Fundamentals of Deep Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Week%2010%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
+
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/694778c1c318458589ad1990c1bb9614)
 - The perceptron [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8d0ed35c632a4f0e805c103376974ec6)
 - Building Neural Networks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4ed93e63f36f468dad163bde0ed4102c)
@@ -116,9 +117,9 @@
 		- Weight Regularization [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6f8e8101bee243318302cb3742fbdb8c)
 		- Weight Constraint [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b65c8294dcda4746a0a9a9c9ea3b5cb4)
 		- Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c32f0a35d56b426ca988e05926787936)
-		- [Promote Robustness with Noise](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
+		- Promote Robustness with Noise ![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
 		- Early Stopping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c738eed439a34794a6b99c555b99afad)
-	- Better Learning
+	- Better Learning II
 		- Data scaling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7008b640440d412498578e27b8557471)
 		- Vanishing/Exploding Gradient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
 		- Fix Vanishing Gradient with Relu [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
