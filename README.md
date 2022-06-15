@@ -107,6 +107,22 @@
 - Hands on :fire:
     - TensorFlow Crash Course [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
      - Better Learning - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_10/Notebooks/Week%2010%20Task%2002%20-%20Better%20Learning%20part%20I.ipynb)
+     
+- Weeks #12 and #13 Better Generalization vs Better Learning
+    - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/33ceae6510ca4321b95425efc7c7828e)
+    - Better Generalization
+		- Spliting Data [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
+		- Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9cc90385906d458b9baafc19c686cc8e)
+		- Weight Regularization [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6f8e8101bee243318302cb3742fbdb8c)
+		- Weight Constraint [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b65c8294dcda4746a0a9a9c9ea3b5cb4)
+		- Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c32f0a35d56b426ca988e05926787936)
+		- [Promote Robustness with Noise](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
+		- Early Stopping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c738eed439a34794a6b99c555b99afad)
+	- Better Learning
+		- Data scaling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7008b640440d412498578e27b8557471)
+		- Vanishing/Exploding Gradient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
+		- Fix Vanishing Gradient with Relu [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
+		- Fix Exploding Gradient with Gradient Clipping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2b560922401442b7b078faf06801a3ad)
 
     
     
