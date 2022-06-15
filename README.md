@@ -121,12 +121,12 @@
     - Hands on :eyes:
         - Better Generalization - Part I [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20I.ipynb)
         - Better Generalization - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Generalization%20II.ipynb)
-- Better Learning II :mortar_board:
+- Better Learning II 
 	- Data scaling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/09f19beaffd946b897d1c61f3bf27f02)
 	- Vanishing/Exploding Gradient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/68ed7dd6c5284652a8a81396bb8465ec)
 	- Fix Vanishing Gradient with Relu [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d7fadbbf54c040d69facea3ce035d8f2)
 	- Fix Exploding Gradient with Gradient Clipping [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9dc3598a295a4bcca2f9717ba8f041f5)
-    - Hands on
+    - Hands on :mortar_board:
         - Better Learning - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20II.ipynb)
         -  Better Learning - Part III [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20III.ipynb)
 
