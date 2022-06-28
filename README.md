@@ -130,7 +130,7 @@
         - Better Learning - Part II [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20II.ipynb)
         -  Better Learning - Part III [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_12/Better%20Learning%20III.ipynb)
         
-**Week 13** - Hyperparameter Tuning & Batch Normalization [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_13/Hyperparameter%20Tuning%20and%20Batch%20Normalization.pdf)
+**Week 14** - Hyperparameter Tuning & Batch Normalization [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_14/Hyperparameter%20Tuning%20and%20Batch%20Normalization.pdf)
 
 - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a2c5d4d632b54dbfb27af28efa2a3ad0)
 - Hyperparameter Tuning Fundamentals [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1993b8e11c764c23a87ac79f2a377275)
@@ -141,6 +141,6 @@
 - Batch Normalization Math Details [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c031045602fc4d0b8aa2043042f19b81)
 - Batch Normalization Case Study [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b05d320e561b43658be90a812537c87c)
 - Hands on :bell:
-    - Hyperparameter tuning using  keras tuner [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_13/Task%20%2301%20Hyperparameter%20Tuning%20using%20Keras%20Tuner.ipynb) 
-    - Hyperparameter tuning using weights and biases [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_13/Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb) 
-    - Batch Normalization [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_13/Task%20%2303%20Batch%20Normalization.ipynb) 
+    - Hyperparameter tuning using  keras tuner [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_14/Task%20%2301%20Hyperparameter%20Tuning%20using%20Keras%20Tuner.ipynb) 
+    - Hyperparameter tuning using weights and biases [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_14/Task%20%2302%20Hyperparameter%20Tuning%20using%20Weights%20and%20Biases.ipynb) 
+    - Batch Normalization [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeecmachinelearning/blob/main/lessons/week_14/Task%20%2303%20Batch%20Normalization.ipynb) 
